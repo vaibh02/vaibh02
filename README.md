@@ -42,8 +42,8 @@ Yes! I am open to freelance opportunities. Feel free to reach out via email at [
 I'm always up for a chat or collaboration. If you have any questions, ideas, or just want to connect, feel free to reach out.
 
 ---
-
-
- <img align="right" alt="GIF" src="/code.gif?raw=true" width="500" height="320" />
-
 **Note:** This GitHub page is a reflection of my journey, skills, and projects. It's a space where I share my passion for technology and learning. Thank you for stopping by! 🚀
+
+
+ <img align="right" alt="GIF" src="/code.gif?raw=true" width="1000" height="520" />
+
