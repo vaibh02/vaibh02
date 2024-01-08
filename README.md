@@ -12,16 +12,9 @@ I am a passionate and self-taught AI and Machine Learning developer, as well as 
 ## Skills 🚀
 
 - **Programming Languages:** Python, JAVA, R
-- **Ask Me About:** Data Science,Machine Learning, Artificial Intelligence, Tech, Cybersecurity, Linux
-- **Technologies:**
-  - **Machine Learning:**
-    - Frameworks: Scikit-larn,TensorFlow, Pytorch, Open-CV
-    - Cloud Work: GCP, AWS, AZURE
-  - **DevOps:** AWS, Docker🐳, GCP, GitHub Actions, CircleCI
 
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> -->
 <code><img height="20" src="https://github.com/stodev-com-br/opencv/wiki/logo/OpenCV_logo_no_text.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
@@ -29,6 +22,15 @@ I am a passionate and self-taught AI and Machine Learning developer, as well as 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+- **Ask Me About:** Data Science,Machine Learning, Artificial Intelligence, Tech, Cybersecurity, Linux
+- **Technologies:**
+  - **Machine Learning:**
+    - Frameworks: Scikit-larn,TensorFlow, Pytorch, Open-CV
+    - Cloud Work: GCP, AWS, AZURE
+  - **DevOps:** AWS, Docker🐳, GCP, GitHub Actions, CircleCI
+
+  
 ## Workplace 🎓
 
 - **College:** NIET
