@@ -1,8 +1,8 @@
 # Welcome to [Your Name]'s GitHub Page! 👋
 
 
-[![LinkedIn](download.jpeg)](https://www.linkedin.com/in/vaibhav-saini-90b34924a)
-[![Instagram](instagram.png)](Your Instagram Link)
+<!-- [![LinkedIn](download.jpeg)](https://www.linkedin.com/in/vaibhav-saini-90b34924a)
+[![Instagram](instagram.png)](Your Instagram Link) -->
 
 
 ## Hi there! I'm Vaibhav Saini 👨‍💻
