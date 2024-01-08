@@ -5,7 +5,7 @@
 [![Instagram](instagram.png)](Your Instagram Link) -->
 
 
-## Hi there! I'm # Vaibhav Saini 👨‍💻
+## Hi there! I'm  Vaibhav Saini 👨‍💻
 
 I am a passionate and self-taught AI and Machine Learning developer, as well as a freelance software engineer from Greater Noida. My journey in the world of software is characterized by dreaming up ideas and turning them into reality through elegant projects. I'm deeply invested in ensuring exceptional user experiences, robust architecture, and high-quality code.
 
